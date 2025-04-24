@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Luis. My friends call me Weedo (short for Guido). I'm from Colombia. I went to college to become a Systems Engineer, and here I am.<br><br>- 🔭 I’m currently working on my own SaaS project and at my university as an intern.<br><br>- 📖 I'm currently learning JavaScript and React.js, aiming to become a full-stack developer with Django REST API.<br><br>- 🤖 In my free time, I like to play video games and exercise.</p>
+<p align="left">I'm Luis. My friends call me Luis (short for Guido). I'm from Colombia. I went to college to become a Systems Engineer, and here I am.<br><br>- 🔭 I’m currently working on my own SaaS project and at my university as an intern.<br><br>- 📖 I'm currently learning JavaScript and React.js, aiming to become a full-stack developer with Django REST API.<br><br>- 🤖 In my free time, I like to play video games and exercise.</p>
 
 ###
 
