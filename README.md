@@ -14,7 +14,15 @@
 
 ###
 
-<p align="left">I'm Luis. My friends call me Luis (short for Guido). I'm from Colombia. I went to college to become a Systems Engineer, and here I am.<br><br>- 🔭 I’m currently working on my own SaaS project and at my university as an intern.<br><br>- 📖 I'm currently learning JavaScript and React.js, aiming to become a full-stack developer with Django REST API.<br><br>- 🤖 In my free time, I like to play video games and exercise.</p>
+<p align="left">
+Hi, I'm Luis — but most people call me Weedo 🐾 (named after my cat Guido, may he rest in peace).
+
+I'm a Systems Engineer from Colombia, currently building my own SaaS project whith my team <a href="https://soswer.com/" target="_blank">SOSWER</a>.
+
+- 🔭 Currently focused on: SaaS development & backend systems  
+- 📖 Full Stack Developer: Django REST Framework, FastAPI, and modern JS/TS stacks (React + Vite)  
+- 🤖 Interests: video games, creative tech, art and fitness  
+</p>
 
 ###
 
@@ -36,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
   <img width="12" />
